@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/anassbouchfar/static/css/main.2d3f11fa.chunk.css",
+    "main.js": "/anassbouchfar/static/js/main.89ec5d96.chunk.js",
+    "main.js.map": "/anassbouchfar/static/js/main.89ec5d96.chunk.js.map",
+    "runtime-main.js": "/anassbouchfar/static/js/runtime-main.8a9af424.js",
+    "runtime-main.js.map": "/anassbouchfar/static/js/runtime-main.8a9af424.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/anassbouchfar/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.d056829a.chunk.js": "/anassbouchfar/static/js/2.d056829a.chunk.js",
+    "static/js/2.d056829a.chunk.js.map": "/anassbouchfar/static/js/2.d056829a.chunk.js.map",
+    "static/js/3.e695d784.chunk.js": "/anassbouchfar/static/js/3.e695d784.chunk.js",
+    "static/js/3.e695d784.chunk.js.map": "/anassbouchfar/static/js/3.e695d784.chunk.js.map",
+    "index.html": "/anassbouchfar/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/anassbouchfar/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.2d3f11fa.chunk.css.map": "/anassbouchfar/static/css/main.2d3f11fa.chunk.css.map",
+    "static/js/2.d056829a.chunk.js.LICENSE.txt": "/anassbouchfar/static/js/2.d056829a.chunk.js.LICENSE.txt",
+    "static/media/Soumyajit-Behera.dc4c8363.pdf": "/anassbouchfar/static/media/Soumyajit-Behera.dc4c8363.pdf",
+    "static/media/about.aee0f771.png": "/anassbouchfar/static/media/about.aee0f771.png",
+    "static/media/avatar.5852f40f.svg": "/anassbouchfar/static/media/avatar.5852f40f.svg",
+    "static/media/blog.52102140.png": "/anassbouchfar/static/media/blog.52102140.png",
+    "static/media/chatify.9373edda.png": "/anassbouchfar/static/media/chatify.9373edda.png",
+    "static/media/codeEditor.ba945879.png": "/anassbouchfar/static/media/codeEditor.ba945879.png",
+    "static/media/emotion.e92e314a.jpeg": "/anassbouchfar/static/media/emotion.e92e314a.jpeg",
+    "static/media/style.css": "/anassbouchfar/static/media/pre.d4812f51.svg",
+    "static/media/home-main.541f8179.svg": "/anassbouchfar/static/media/home-main.541f8179.svg",
+    "static/media/leaf.4c15d6eb.png": "/anassbouchfar/static/media/leaf.4c15d6eb.png",
+    "static/media/suicide.b72f1f9f.png": "/anassbouchfar/static/media/suicide.b72f1f9f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a9af424.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.d056829a.chunk.js",
+    "static/css/main.2d3f11fa.chunk.css",
+    "static/js/main.89ec5d96.chunk.js"
+  ]
+}
