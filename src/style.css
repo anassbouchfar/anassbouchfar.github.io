@@ -7,8 +7,8 @@ html {
 
   --image-gradient: linear-gradient(
     to bottom left,
-    rgba(17, 16, 16, 0.678),
-    rgba(12, 10, 22, 0.863)
+    rgba(17, 16, 16, 0.582),
+    rgba(12, 8, 24, 0.904)
   );
 
   --imp-text-color: rgb(255, 45, 32);
@@ -53,18 +53,18 @@ html {
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background: #2d1950;
+  background: #fc4242;
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: rgba(178, 121, 216, 0.959) rgb(255, 45, 32);
+  background: rgb(255, 45, 32) rgb(255, 45, 32);
   border-radius: 12px;
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: rgba(222, 130, 235, 0.911);
+  background: #fff;
   border-radius: 12px;
 }
 
@@ -254,7 +254,7 @@ html {
 .home-section {
   position: relative;
   z-index: -1;
-  background-image: var(--image-gradient), url(./Assets/home-bg.jpg);
+  /*background-image: var(--section-background-color);*/
   background-position: top center;
   background-repeat: no-repeat;
   padding-bottom: 30px !important;
@@ -381,8 +381,8 @@ html {
 
 .home-social-icons:hover {
   color: #87209e;
-  box-shadow: 0 0 5px #87209e;
-  text-shadow: 0 0 2px #87209e;
+  box-shadow: 0 0 5px rgb(255, 45, 32);
+  text-shadow: 0 0 2px rgb(255, 45, 32);
 }
 
 .social-icons {
@@ -721,7 +721,7 @@ html {
 
 .fork-btn-inner {
   line-height: 1.4em !important;
-  background-color: #934cce5e !important;
+  background-color: rgb(255, 45, 32) !important;
   padding: 0.25rem 1.1rem !important;
   vertical-align: middle !important;
   text-align: center !important;
@@ -729,8 +729,8 @@ html {
 
 .fork-btn-inner:hover {
   transform: translateY(-2px) !important;
-  background-color: #a24dd386 !important;
-  border-color: #a24dd386 !important;
+  background-color: rgb(255, 45, 32) !important;
+  border-color: #ffffff !important;
 }
 .fork-btn-inner::after {
   display: none !important;
