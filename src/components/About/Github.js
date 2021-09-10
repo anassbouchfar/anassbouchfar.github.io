@@ -6,11 +6,11 @@ function Github() {
   const colourTheme = {
     background: "transparent",
     text: "#ffffff",
-    grade4: "#8400b8",
-    grade3: "#b22ff4",
-    grade2: "#b265f6",
-    grade1: "#c084f5",
-    grade0: "#ecd9fc",
+    grade4: "rgb(255, 45, 32)",
+    grade3: "#fc4a3f",
+    grade2: "#fc4f44",
+    grade1: "#fc6b62",
+    grade0: "#ffa49e",
   };
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
@@ -18,7 +18,7 @@ function Github() {
         Days I <strong className="purple">Code</strong>
       </h1>
       <GitHubCalendar
-        username="soumyajit4419"
+        username="anassbouchfar"
         blockSize={15}
         blockMargin={5}
         theme={colourTheme}
