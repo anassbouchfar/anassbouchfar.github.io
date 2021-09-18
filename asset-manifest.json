@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.8ca27525.chunk.css",
-    "main.js": "/static/js/main.cfac99ac.chunk.js",
-    "main.js.map": "/static/js/main.cfac99ac.chunk.js.map",
+    "main.js": "/static/js/main.cd575781.chunk.js",
+    "main.js.map": "/static/js/main.cd575781.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.0b4a3b5d.js",
     "runtime-main.js.map": "/static/js/runtime-main.0b4a3b5d.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/static/css/2.20aa2d7b.chunk.css",
@@ -24,7 +24,7 @@
     "static/media/leaf.4c15d6eb.png": "/static/media/leaf.4c15d6eb.png",
     "static/media/logo.173944e0.png": "/static/media/logo.173944e0.png",
     "static/media/style.css": "/static/media/pre.9e7cfd2a.svg",
-    "static/media/profile.92faed8b.jpeg": "/static/media/profile.92faed8b.jpeg",
+    "static/media/profile.53e6081d.jpeg": "/static/media/profile.53e6081d.jpeg",
     "static/media/suicide.b72f1f9f.png": "/static/media/suicide.b72f1f9f.png"
   },
   "entrypoints": [
@@ -32,6 +32,6 @@
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.9a945248.chunk.js",
     "static/css/main.8ca27525.chunk.css",
-    "static/js/main.cfac99ac.chunk.js"
+    "static/js/main.cd575781.chunk.js"
   ]
 }
