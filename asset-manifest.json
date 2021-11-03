@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.8ca27525.chunk.css",
-    "main.js": "/static/js/main.b19197ea.chunk.js",
-    "main.js.map": "/static/js/main.b19197ea.chunk.js.map",
+    "main.css": "/static/css/main.c5c82ae2.chunk.css",
+    "main.js": "/static/js/main.83d129e6.chunk.js",
+    "main.js.map": "/static/js/main.83d129e6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.0b4a3b5d.js",
     "runtime-main.js.map": "/static/js/runtime-main.0b4a3b5d.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/static/css/2.20aa2d7b.chunk.css",
@@ -12,17 +12,17 @@
     "static/js/3.1f5c1902.chunk.js.map": "/static/js/3.1f5c1902.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.20aa2d7b.chunk.css.map": "/static/css/2.20aa2d7b.chunk.css.map",
-    "static/css/main.8ca27525.chunk.css.map": "/static/css/main.8ca27525.chunk.css.map",
+    "static/css/main.c5c82ae2.chunk.css.map": "/static/css/main.c5c82ae2.chunk.css.map",
     "static/js/2.84ecdd04.chunk.js.LICENSE.txt": "/static/js/2.84ecdd04.chunk.js.LICENSE.txt",
     "static/media/about.bcfd3514.png": "/static/media/about.bcfd3514.png",
     "static/media/anass-bouchfar.38cfc873.pdf": "/static/media/anass-bouchfar.38cfc873.pdf",
     "static/media/avatar.8514119c.svg": "/static/media/avatar.8514119c.svg",
     "static/media/blog.52102140.png": "/static/media/blog.52102140.png",
-    "static/media/chatify.9373edda.png": "/static/media/chatify.9373edda.png",
     "static/media/codeEditor.ba945879.png": "/static/media/codeEditor.ba945879.png",
     "static/media/emotion.e92e314a.jpeg": "/static/media/emotion.e92e314a.jpeg",
     "static/media/leaf.4c15d6eb.png": "/static/media/leaf.4c15d6eb.png",
     "static/media/logo.173944e0.png": "/static/media/logo.173944e0.png",
+    "static/media/nyc.c93bf6f6.jpeg": "/static/media/nyc.c93bf6f6.jpeg",
     "static/media/style.css": "/static/media/pre.9e7cfd2a.svg",
     "static/media/profile1.e60a5c9b.jpg": "/static/media/profile1.e60a5c9b.jpg",
     "static/media/suicide.b72f1f9f.png": "/static/media/suicide.b72f1f9f.png"
@@ -31,7 +31,7 @@
     "static/js/runtime-main.0b4a3b5d.js",
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.84ecdd04.chunk.js",
-    "static/css/main.8ca27525.chunk.css",
-    "static/js/main.b19197ea.chunk.js"
+    "static/css/main.c5c82ae2.chunk.css",
+    "static/js/main.83d129e6.chunk.js"
   ]
 }
