@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.560650d8.chunk.css",
-    "main.js": "/static/js/main.997a5a3c.chunk.js",
-    "main.js.map": "/static/js/main.997a5a3c.chunk.js.map",
+    "main.js": "/static/js/main.b4a1170d.chunk.js",
+    "main.js.map": "/static/js/main.b4a1170d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.0b4a3b5d.js",
     "runtime-main.js.map": "/static/js/runtime-main.0b4a3b5d.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/static/css/2.20aa2d7b.chunk.css",
@@ -20,8 +20,8 @@
     "static/media/blog.52102140.png": "/static/media/blog.52102140.png",
     "static/media/codeEditor.ba945879.png": "/static/media/codeEditor.ba945879.png",
     "static/media/emotion.e92e314a.jpeg": "/static/media/emotion.e92e314a.jpeg",
-    "static/media/leaf.4c15d6eb.png": "/static/media/leaf.4c15d6eb.png",
     "static/media/logo.173944e0.png": "/static/media/logo.173944e0.png",
+    "static/media/mcfp.7748ed95.png": "/static/media/mcfp.7748ed95.png",
     "static/media/nyc.c93bf6f6.jpeg": "/static/media/nyc.c93bf6f6.jpeg",
     "static/media/style.css": "/static/media/pre.9e7cfd2a.svg",
     "static/media/profile2.aece524a.jpeg": "/static/media/profile2.aece524a.jpeg",
@@ -32,6 +32,6 @@
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.d922945c.chunk.js",
     "static/css/main.560650d8.chunk.css",
-    "static/js/main.997a5a3c.chunk.js"
+    "static/js/main.b4a1170d.chunk.js"
   ]
 }
